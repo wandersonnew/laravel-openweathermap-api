@@ -21,11 +21,11 @@ A requisição é feita via GET usando ajax, assim os dados são exibidos na mes
 
 Tela com campos inputs padrões.
 
-![Início](/public/assets/ini.png)
+![Tela padrão](/public/assets/ini.png)
 
 Após pesquisar as informações na tela irão alterar de acordo com o resultado da requisição.
 
-![Você venceu!](/publicassets/search.png)
+![Retorno](/public/assets/search.png)
 
 
 ### Autor
