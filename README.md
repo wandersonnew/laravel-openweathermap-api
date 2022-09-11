@@ -35,7 +35,7 @@ Após pesquisar as informações na tela irão alterar de acordo com o resultado
  <br />
  <sub><b>Wanderson Duarte Alves</b></sub>
 
-Graduando em Ciências da Computação, programador e fascinado por Linux.
+Graduando em Ciências da Computação, programador FULL STACK.
 
 Contato!
 
