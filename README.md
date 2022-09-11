@@ -41,6 +41,4 @@ Contato!
 
 [![Gmail Badge](https://img.shields.io/badge/-wandersondrtlvs.new@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wandersondrtlvs.new@gmail.com)](mailto:wandersondrtlvs.new@gmail.com)
 
-![image]({https://www.linkedin.com/in/wanderson-duarte-alves-810325177/}]
-
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+<a href="https://www.linkedin.com/in/wanderson-duarte-alves-810325177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
